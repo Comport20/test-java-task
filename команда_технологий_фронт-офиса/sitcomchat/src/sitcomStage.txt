@@ -1,5 +1,4 @@
 Joey: Hey
-Тут: новое предложение
 Chandler: Hey
 Phoebe: Hey
 Chandler: And this from
@@ -13,9 +12,3 @@ Chandler: Do you know which
 Joey: No, but I hear
 Chandler: Good luck
 Joey: Thanks
-Чин чопа: я первая строчка
-Чин жопа: я вторая строчка
-Чин жопа3: я 3 строчка
-Чин жопа4: я 4 строчка
-Чин жопа5: я 5 строчка
-Чин жопа6: я 6 строчка
